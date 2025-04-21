@@ -214,7 +214,8 @@ const Navbar = ({ toggleSidebar, openModal, onSearch, openAddModal }) => {
               onClick={openAddModal}
               className="bg-green-600 px-3 py-1 rounded-lg hover:bg-green-700"
             >
-              Add Podcast
+              Add Podcasts 
+              List Podcasts
             </button>
           )}
           {location.pathname === "/news" && (
