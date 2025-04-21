@@ -1,0 +1,13 @@
+{
+    "video": {
+      "title": "Your Video Title Here",
+      "videoId": "vWLcyFtni6U",
+      "thumbnail": "https://img.youtube.com/vi/vWLcyFtni6U/hqdefault.jpg",
+      "channel": {
+        "name": "Channel Name",
+        "profileImage": "https://yt3.googleusercontent.com/your-channel-image-url"
+      },
+      "publishedDate": "2 days ago"
+    }
+  }
+  
